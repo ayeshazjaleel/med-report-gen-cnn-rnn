@@ -1,1 +1,1 @@
-# med-report-gen-cnn-rnn
+# Medical Report Generation using CT scans
